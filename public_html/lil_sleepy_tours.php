@@ -13,15 +13,7 @@
 <header>
 <img src="img/header.png" alt="sleepy header Image">
 <br>
-<nav>
-    <ul>
-        <li><a href='index.html'>Home</a></li>
-        <li><a href='lil_sleepy_albums.php'>Music</a></li>
-        <li><a href='lil_sleepy_about.php'>About</a></li>
-        <li><a href='lil_sleepy_contact_us.php'>Contact</a></li>
-        <li><a href='lil_sleepy_merch.php'>Merch</a></li>
-    </ul>
-</nav>
+<?php include 'navigation.php'; ?>
 <h1>Where Is lil Sleepy?</h1>
 </header>
 <p>Upcoming Tour Dates</p>
@@ -63,9 +55,6 @@
             <td>9/28 - Des Moines, IA - Wells Fargo Arena</td>
         </tr>
 </table>   
-<footer>
-<p>© Copyright 2018, lil Sleepy</p>
-<p>Powered by pure will</p>
-</footer>
+ <?php include 'footer.php'; ?>
 </body>
 </html>

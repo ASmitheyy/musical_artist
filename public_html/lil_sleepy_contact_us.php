@@ -13,15 +13,7 @@
 <header>
 <img src="img/header.png" alt="Lil Sleepy Header">
 <br>
-<nav>
-    <ul>
-        <li><a href='index.php'>Home</a></li>
-        <li><a href='lil_sleepy_albums.php'>Music</a></li>
-        <li><a href='lil_sleepy_about.php'>About</a></li>
-        <li><a href='lil_sleepy_contact_us.php'>Contact</a></li>
-        <li><a href='lil_sleepy_merch.php'>Merch</a></li>
-    </ul>
-</nav>
+<?php include 'navigation.php'; ?>
 <p>Where to Follow lil Sleepy</p>
 </header>
 <table>
@@ -41,9 +33,6 @@
     </tr>
 </table>
 
-<footer>
-<p>© Copyright 2018, lil Sleepy</p>
-<p>Powered by pure will</p>
-</footer>
+ <?php include 'footer.php'; ?>
 </body>
 </html>
