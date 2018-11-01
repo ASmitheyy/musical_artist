@@ -5,7 +5,9 @@
 
 <head>
 <meta charset="utf-8">
-<title>Lil Sleep- Merch</title>
+<title><?php include 'navigation.php'; ?>
+    <h1>Lil Sleep- Merch<h1>
+</title>
 	 <link rel="stylesheet" type="text/css" href="css/purple_style.css">
 </head>
 
@@ -13,7 +15,6 @@
 <header>
 <img src="img/header.png" alt="Lil Sleepy">
 <br>
-<?php include 'navigation.php'; ?>
 <p>Sleepy Swag</p>
 </header>
 <p>My Shop</p>
