@@ -25,11 +25,11 @@ This cost Zach many first place finishes due to his love for sleep.
 <h2>Additional Links</h2>
 <nav>
     <ul>
-        <li><a href='index.html'>Home</a></li>
-        <li><a href='lil_sleepy_albums.html'>Music</a></li>
-        <li><a href='lil_sleepy_about.html'>About</a></li>
-        <li><a href='lil_sleepy_contact_us.html'>Contact</a></li>
-        <li><a href='lil_sleepy_merch.html'>Merch</a></li>
+        <li><a href='index.php'>Home</a></li>
+        <li><a href='lil_sleepy_albums.php'>Music</a></li>
+        <li><a href='lil_sleepy_about.php'>About</a></li>
+        <li><a href='lil_sleepy_contact_us.php'>Contact</a></li>
+        <li><a href='lil_sleepy_merch.php'>Merch</a></li>
     </ul>
 </nav>
 <footer>
