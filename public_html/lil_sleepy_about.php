@@ -7,6 +7,7 @@
 	 <link rel="stylesheet" type="text/css" href="css/purple_style.css">
 </head>
 <body>
+	<img src="img/header.png" alt="sleepy header Image">
 <?php include 'navigation.php'; ?>
 <header><h1>About lil Sleepy</h1></header>
 <img src="img/lil_sleepy.jpg" alt="Picture of Lil SLeepy"/>

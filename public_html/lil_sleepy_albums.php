@@ -6,7 +6,8 @@
 	<title>Albums</title>
 	 <link rel="stylesheet" type="text/css" href="css/purple_style.css">
 </head>
-<body><?php include 'navigation.php'; ?>
+<body><img src="img/header.png" alt="sleepy header Image">
+	<?php include 'navigation.php'; ?>
 <header><h1>All of lil Sleepy's albums!</h1></header>
 
 <table>
