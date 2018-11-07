@@ -34,38 +34,38 @@
 		<tr>
 			<td>
 				 <ul>
-					<p class="solid"><li>"Skippin my 8am"</li>
-					<li>"Whoops, alarm didn't go off"</li>
-					<li>"Daydreamin"</li>
-					<li>"My bed understands me"</li>
-					<li>"Sleep God"</li></p>
+					<p class="solid"><li>"Skippin my 8am"</li></p>
+					<p class="solid"><li>"Whoops, alarm didn't go off"</li></p>
+					<p class="solid"><li>"Daydreamin"</li></p>
+					<p class="solid"><li>"My bed understands me"</li></p>
+					<p class="solid"><li>"Sleep God"</li></p>
 				</ul>
 			</td>
 			<td>
 				 <ul>
-					<p class="solid"><li>"1z, 2z, 3z"</li>
-					<li>"Can't wait to crawl in bed"</li>
-					<li>"Lucid Dreamin"</li>
-					<li>"My best friend's name is Sleep"</li>
-					<li>"Up in da clouds"</li></p>
+					<p class="solid"><li>"1z, 2z, 3z"</li></p>
+					<p class="solid"><li>"Can't wait to crawl in bed"</li></p>
+					<p class="solid"><li>"Lucid Dreamin"</li></p>
+					<p class="solid"><li>"My best friend's name is Sleep"</li></p>
+					<p class="solid"><li>"Up in da clouds"</li></p>
 				</ul>
 			</td>
 			<td>
 				 <ul>
-					<p class="solid"><li>"Hello? It's me, Sleep."</li>
-					<li>"I woke up for this?"</li>
-					<li>"Tick Tock it's Bed O'Clock"</li>
-					<li>"Bed Song"</li>
-					<li>"World's best Napper"</li></p>
+					<p class="solid"><li>"Hello? It's me, Sleep."</li></p>
+					<p class="solid"><li>"I woke up for this?"</li></p>
+					<p class="solid"><li>"Tick Tock it's Bed O'Clock"</li></p>
+					<p class="solid"><li>"Bed Song"</li></p>
+					<p class="solid"><li>"World's best Napper"</li></p>
 				</ul>
 			</td>
 			<td>
 			    <ul>
-			        <p class="solid"><li>"Why Not Sleep 24/7"</li>
-			        <li>"Sleep Isn't For The Weak"</li>
-			        <li>"Wake up Blues"</li>
-			        <li>"Sleepin All Day And Night"</li>
-			        <li>"Up For An Hour"</li></p>
+			        <p class="solid"><li>"Why Not Sleep 24/7"</li></p>
+			        <p class="solid"><li>"Sleep Isn't For The Weak"</li></p>
+			        <p class="solid"><li>"Wake up Blues"</li></p>
+			        <p class="solid"><li>"Sleepin All Day And Night"</li></p>
+			        <p class="solid"><li>"Up For An Hour"</li></p>
 			    </ul>
 			</td> 
 		</tr>
