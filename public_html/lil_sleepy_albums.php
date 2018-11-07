@@ -4,6 +4,9 @@
 <head>
 	<meta charset="utf-8">
 	<title>Albums</title>
+	<style type="text/css">
+		p.solid {border-style: solid;}
+	</style>
 	 <link rel="stylesheet" type="text/css" href="css/purple_style.css">
 </head>
 <body><img src="img/header.png" alt="sleepy header Image">
@@ -31,38 +34,38 @@
 		<tr>
 			<td>
 				 <ul>
-					<li>"Skippin my 8am"</li>
+					<p class="solid"><li>"Skippin my 8am"</li>
 					<li>"Whoops, alarm didn't go off"</li>
 					<li>"Daydreamin"</li>
 					<li>"My bed understands me"</li>
-					<li>"Sleep God"</li>
+					<li>"Sleep God"</li></p>
 				</ul>
 			</td>
 			<td>
 				 <ul>
-					<li>"1z, 2z, 3z"</li>
+					<p class="solid"><li>"1z, 2z, 3z"</li>
 					<li>"Can't wait to crawl in bed"</li>
 					<li>"Lucid Dreamin"</li>
 					<li>"My best friend's name is Sleep"</li>
-					<li>"Up in da clouds"</li>
+					<li>"Up in da clouds"</li></p>
 				</ul>
 			</td>
 			<td>
 				 <ul>
-					<li>"Hello? It's me, Sleep."</li>
+					<p class="solid"><li>"Hello? It's me, Sleep."</li>
 					<li>"I woke up for this?"</li>
 					<li>"Tick Tock it's Bed O'Clock"</li>
 					<li>"Bed Song"</li>
-					<li>"World's best Napper"</li>
+					<li>"World's best Napper"</li></p>
 				</ul>
 			</td>
 			<td>
 			    <ul>
-			        <li>"Why Not Sleep 24/7"</li>
+			        <p class="solid"><li>"Why Not Sleep 24/7"</li>
 			        <li>"Sleep Isn't For The Weak"</li>
 			        <li>"Wake up Blues"</li>
 			        <li>"Sleepin All Day And Night"</li>
-			        <li>"Up For An Hour"</li>
+			        <li>"Up For An Hour"</li></p>
 			    </ul>
 			</td> 
 		</tr>

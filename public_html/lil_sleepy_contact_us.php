@@ -25,11 +25,11 @@
         <td>.<img src="img/email.png" alt="email">.</td>
     </tr>
     <tr>
-        <td>@RealLilSleepy</td>
-        <td>Lil Sleepy</td>
-        <td>@OGRealLilSleepy2299</td>
-        <td>Lil Sleepy</td>
-        <td>lilsleepy@lilsleepy.edu</td>
+        <td><b>@RealLilSleepy</b></td>
+        <td><b>Lil Sleepy</b></td>
+        <td><b>@OGRealLilSleepy2299</b></td>
+        <td><b>Lil Sleepy</b></td>
+        <td><b>lilsleepy@lilsleepy.edu</b></td>
     </tr>
 </table>
 

@@ -5,6 +5,24 @@
 
 <head>
 <meta charset="utf-8">
+<style>
+            .word_class {
+                border-style: solid;
+                border-width: 2px;
+                margin: 3px;
+                padding: 3px;
+                display: inline;
+            }
+            td, th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 7px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+        </style>
 <title>Sleeping In - Tour</title>
 	 <link rel="stylesheet" type="text/css" href="css/purple_style.css">
 </head>
@@ -14,7 +32,8 @@
 <img src="img/header.png" alt="sleepy header Image">
 <br>
 <?php include 'navigation.php'; ?>
-<h1>Where Is lil Sleepy?</h1>
+ <div class="word_class"><b>Where Is lil Sleepy?</b></div>
+
 </header>
 <p>Upcoming Tour Dates</p>
 <table>
