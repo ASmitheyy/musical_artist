@@ -5,6 +5,15 @@
 
 <head>
 <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Main CSS styles for Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+
+    <!-- Optional theme add-on -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.3/sandstone/bootstrap.min.css">
+
 <style>
             .word_class {
                 border-style: solid;
@@ -47,7 +56,7 @@ tr:nth-child(even) {
             <td>9/15 - Columbus, OH - Express Live</td>
         </tr>
         <tr>
-            <td>9/16 - Pittsburgh, PA - Rex Theatre<td>
+            <td>9/16 - Pittsburgh, PA - Rex Theatre</td>
         </tr>
         <tr>
             <td>9/17 - Grand Rapids, MI - 20 Monroe Live</td>
