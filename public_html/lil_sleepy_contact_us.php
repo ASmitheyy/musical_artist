@@ -11,8 +11,6 @@
     <!-- Main CSS styles for Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 
-    <!-- Optional theme add-on -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.3/sandstone/bootstrap.min.css">
 
 <title>Sleeping In - Contact</title>
 	 <link rel="stylesheet" type="text/css" href="css/purple_style.css">

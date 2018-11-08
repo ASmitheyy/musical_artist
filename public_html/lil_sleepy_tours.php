@@ -11,9 +11,6 @@
     <!-- Main CSS styles for Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 
-    <!-- Optional theme add-on -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.1.3/sandstone/bootstrap.min.css">
-
 <style>
             .word_class {
                 border-style: solid;
