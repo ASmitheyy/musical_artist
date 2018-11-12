@@ -39,7 +39,6 @@
          </ul>
         </nav>
 	<img src="img/header.png" alt="sleepy header Image">
-<?php include 'navigation.php'; ?>
 <header><h1>About lil Sleepy</h1></header>
 <img src="img/lil_sleepy.jpg" alt="Picture of Lil SLeepy"/>
 <h2>Early Life</h2>
@@ -55,6 +54,7 @@ This cost Zach many first place finishes due to his love for sleep.
 <h2>Sleep Career</h2>
 <p>Lil Sleepy is the worlds most notorious sleeper. Sleepy has lost many friends and family due to his addiction to sleep, but he still keeps showing the world why he is the best at what he does.</p>
 <h2>Additional Links</h2>
+<?php include 'navigation.php'; ?>
  <?php include 'footer.php'; ?>
 </body>
 

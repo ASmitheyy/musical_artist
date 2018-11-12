@@ -60,10 +60,9 @@ tr:nth-child(even) {
 <header>
 <img src="img/header.png" alt="sleepy header Image">
 <br>
-<?php include 'navigation.php'; ?>
  <div class="word_class"><b>Where Is lil Sleepy?</b></div>
-
 </header>
+<?php include 'navigation.php'; ?>
 <p>Upcoming Tour Dates</p>
 <table>
         <tr>

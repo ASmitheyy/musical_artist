@@ -46,7 +46,6 @@
          </ul>
         </nav>
 <img src="img/header.png" alt="sleepy header Image">
-	<?php include 'navigation.php'; ?>
     <header>
       <div class="collapse bg-dark" id="navbarHeader">
         <div class="container">
@@ -113,8 +112,7 @@
               </div>
             </div>
     </main>
-
-
+		<?php include 'navigation.php'; ?>
          <?php include 'footer.php'; ?>
   </body>
 </html>
