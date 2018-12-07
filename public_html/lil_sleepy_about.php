@@ -4,10 +4,41 @@
 <head>
 	<meta charset="utf-8">
 	<title>About</title>
+	 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 	 <link rel="stylesheet" type="text/css" href="css/purple_style.css">
 </head>
 <body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Lil Sleepy</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
+      <div class="collapse navbar-collapse" id="navbarSupportedContent"></div>
+
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href='index.php'>Home <span class="sr-only">(current)</span></a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href='lil_sleepy_about.php'>About</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href='lil_sleepy_albums.php'>Music</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href='lil_sleepy_contact_us.php'>Contact</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href='lil_sleepy_merch.php'>Merch</a>
+          </li>
+         </ul>
+        </nav>
+	<img src="img/header.png" alt="sleepy header Image">
 <header><h1>About lil Sleepy</h1></header>
 <img src="img/lil_sleepy.jpg" alt="Picture of Lil SLeepy"/>
 <h2>Early Life</h2>
@@ -23,19 +54,8 @@ This cost Zach many first place finishes due to his love for sleep.
 <h2>Sleep Career</h2>
 <p>Lil Sleepy is the worlds most notorious sleeper. Sleepy has lost many friends and family due to his addiction to sleep, but he still keeps showing the world why he is the best at what he does.</p>
 <h2>Additional Links</h2>
-<nav>
-    <ul>
-        <li><a href='index.html'>Home</a></li>
-        <li><a href='lil_sleepy_albums.html'>Music</a></li>
-        <li><a href='lil_sleepy_about.html'>About</a></li>
-        <li><a href='lil_sleepy_contact_us.html'>Contact</a></li>
-        <li><a href='lil_sleepy_merch.html'>Merch</a></li>
-    </ul>
-</nav>
-<footer>
-<p>© Copyright 2018, lil Sleepy</p>
-<p>Powered by pure will</p>
-</footer>
+<?php include 'navigation.php'; ?>
+ <?php include 'footer.php'; ?>
 </body>
 
 </html>
